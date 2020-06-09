@@ -20,7 +20,7 @@ curl -X PUT http://localhost:8181/v1/policies/myapi --data-binary @scripts/arun.
 # Run application
 ```
 mvn clean install
-java -jar 
+java -jar target/opa-poc-1.0.jar
 
 ```
 
