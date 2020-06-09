@@ -3,8 +3,8 @@
 Spring boot application with OPA integration
 
 # Install OPA server MAC
-`brew install opa`
-[Other install options](https://www.openpolicyagent.org/docs/latest/#running-opa)
+* `brew install opa`
+* [Other install options](https://www.openpolicyagent.org/docs/latest/#running-opa)
 
 # Start OPA Server
 
