@@ -1,0 +1,9 @@
+{
+  "admin": [
+    "GET",
+    "POST"
+  ],
+  "user": [
+    "GET"
+  ]
+}
